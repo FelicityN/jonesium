@@ -1,0 +1,16 @@
+<LJ_params n_types="4" label="default">
+<!-- dummy paramters for testing purposes, no physical meaning -->
+<per_type_data type="4" atomic_num="13" /> <!-- E shift -->
+<per_type_data type="1" atomic_num="14" /> <!-- E shift -->
+<per_type_data type="2" atomic_num="15" /> <!-- no shift -->
+<per_type_data type="3" atomic_num="28" /> <!-- both shifts -->
+
+<per_pair_data type1="4" type2="4" sigma="0.890899" eps6="4.0" eps12="4.0" cutoff="1.781798" energy_shift="T" linear_force_shift="F" />
+
+<per_pair_data type1="1" type2="1" sigma="1.0" eps6="4.0" eps12="4.0" cutoff="2.7" energy_shift="T" linear_force_shift="F" />
+
+<per_pair_data type1="2" type2="2" sigma="0.890899" eps6="1.0" eps12="1.0" cutoff="2.67269" energy_shift="F" linear_force_shift="F" />
+
+<per_pair_data type1="3" type2="3" sigma="0.7071067811865476" eps6="4.0" eps12="4.0" cutoff="2.40543" energy_shift="T" linear_force_shift="F" />
+
+</LJ_params>
